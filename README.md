@@ -9,7 +9,7 @@ This version has some new ligatures on Fira Sans Bold to recreate the [Homelyfe]
 - 'HH' ligature - to recreate the House logo. Bold weight only.
 
 ## How to install
-- [→ Download just the useful weights, as a zip file.](FiraSans-requiredweights.zip)
+- [→ Download just the useful weights, as a zip file.](https://github.com/tobystokes/Fira/releases/download/h1.0/FiraSans-requiredweights.zip)
 - Unzip.
 - On Mac OS, double click the '.otf' font files, they should open with the Font Book app.
 - Click on the install button.
